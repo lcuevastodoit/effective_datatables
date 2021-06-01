@@ -60,17 +60,17 @@ table.dataTable > thead th {
 }
 
 table.dataTable > thead .sorting {
-  background-image: asset-data-url('dataTables/sort.svg');
+  // background-image: asset-data-url('dataTables/sort.svg');
   background-position: right 0.25rem top 0.25rem;
 }
 
 table.dataTable > thead .sorting_asc {
-  background-image: asset-data-url('dataTables/sort-up.svg');
+  // background-image: asset-data-url('dataTables/sort-up.svg');
   background-position: right 0.25rem top 0.25rem;
 }
 
 table.dataTable > thead .sorting_desc {
-  background-image: asset-data-url('dataTables/sort-down.svg');
+ // background-image: asset-data-url('dataTables/sort-down.svg');
   background-position: right 0.25rem top 0.25rem;
 }
 
